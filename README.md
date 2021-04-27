@@ -135,8 +135,31 @@ PERTANYAAN DAN TUGAS
 
    Jawaban :
    
+   [ini merupakan layout untuk menu About yang berisi deskripsi, dan protofolio]
    
+   ![Screenshot (278)](https://user-images.githubusercontent.com/59770620/116261969-59ea4d00-a7a2-11eb-8787-83270defb6d0.png)
+   
+   [Ini adalah tampilan codingan HTML untuk membuat layout menu about]
+   ![Screenshot (279)](https://user-images.githubusercontent.com/59770620/116262566-db41df80-a7a2-11eb-8148-0be4fb9a53a9.png)
+
    
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll.
    Jawaban :
+   
+    [ini merupakan layout untuk menu kontak yang berisi nama, email, dan massage]
+    
+    ![Screenshot (280)](https://user-images.githubusercontent.com/59770620/116263064-45f31b00-a7a3-11eb-9cfa-5ed28927620b.png)
+     
+   [Ini adalah tampilan codingan HTML untuk membuat layout menu kontak]
+   
+   ![Screenshot (281)](https://user-images.githubusercontent.com/59770620/116263264-6fac4200-a7a3-11eb-8fa4-7822913819e9.png)
+   
+   
+   TERIMA KASIH.
+   SOVIA YUNANDA-311910606
+   UNIVERSITAS PELITA BANGSA
+
+    
+
+   
